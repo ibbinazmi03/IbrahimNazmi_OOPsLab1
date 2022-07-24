@@ -2,8 +2,6 @@
 
 import java.util.Scanner;
 
-import com.greatlearning.model.Employee;
-
 public class DriverClass {  //show menu
 	public static void main(String args[]) {
 		Employee employee1 = new Employee("Harshit","Choudary");
