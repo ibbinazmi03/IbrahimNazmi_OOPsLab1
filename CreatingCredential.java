@@ -3,8 +3,6 @@
 
 import java.util.Random;
 
-import com.greatlearning.model.Employee;
-
 public class CreatingCredential {
 
 	public char[] generatePassword() {
